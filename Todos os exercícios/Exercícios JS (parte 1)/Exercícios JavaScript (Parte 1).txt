@@ -1,0 +1,6 @@
+Organização do projeto: Um site
+
+Body:
+	{Header [título]}
+	{section[div][div]}
+	{footer[rodapé]}
